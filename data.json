@@ -1,0 +1,348 @@
+[
+    {
+        "session_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152",
+        "availability": "offline",
+        "created_at": 1585850341978,
+        "is_blocked": false,
+        "meta": {
+            "nickname": "Crisp Team",
+            "email": "crisp-team@crisp.chat",
+            "phone": "",
+            "avatar": "https://crisp.chat/favicon-512x512.png",
+            "ip": "93.177.84.1",
+            "data": {},
+            "device": {
+                "geolocation": {
+                    "country": "FR",
+                    "region": "PDL",
+                    "city": "Nantes",
+                    "coordinates": {
+                        "latitude": 47.2145,
+                        "longitude": -1.5512
+                    }
+                },
+                "locales": [
+                    "en-GB",
+                    "fr-FR"
+                ],
+                "timezone": -60,
+                "system": {
+                    "os": {
+                        "name": "macOS",
+                        "version": "10.11.5"
+                    },
+                    "engine": {
+                        "version": "601.6.17",
+                        "name": "WebKit"
+                    },
+                    "browser": {
+                        "name": "Safari",
+                        "version": "9.1.1",
+                        "major": "9"
+                    },
+                    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17"
+                }
+            },
+            "segments": [
+                "chat"
+            ]
+        },
+        "state": "pending",
+        "status": 0,
+        "updated_at": 1585850369108,
+        "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+        "compose": {
+            "visitor": {
+                "type": "stop",
+                "timestamp": 1585850369047,
+                "excerpt": null
+            }
+        },
+        "people_id": "e471d5f9-0bf0-4687-9487-813f9f5d9f0f",
+        "last_message": "Finally we made some resources to help setting up Crisp:  [How to add the Crisp chatbox on your site](https://help.crisp.chat/en/article/10wcj3l/) _(the code you need to add in your website HTML)_[..]",
+        "unread": {
+            "operator": 0
+        },
+        "assigned": null,
+        "active": {
+            "now": false
+        },
+        "messages": [
+            {
+                "fingerprint": 158585035416040,
+                "delivered": null,
+                "read": "chat",
+                "preview": [],
+                "mentions": [],
+                "session_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152",
+                "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+                "type": "text",
+                "from": "user",
+                "origin": "chat",
+                "content": "A warm welcome on Crisp and thanks for signing up! **Did you setup Crisp on your site?**",
+                "stamped": true,
+                "timestamp": 1585850354160,
+                "user": {
+                    "nickname": "Crisp Team",
+                    "user_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152"
+                }
+            },
+            {
+                "fingerprint": 158585035616380,
+                "delivered": null,
+                "read": "chat",
+                "preview": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=CtYNR2dc80E",
+                        "website": "www.youtube.com",
+                        "title": "How to setup Crisp Inbox? (Shared Inbox App)",
+                        "preview": {
+                            "excerpt": "Vind je dit een leuke video?\n\nLog in om je mening te geven.\n\nLog in om je mening te geven.",
+                            "image": "https://i.ytimg.com/vi/CtYNR2dc80E/maxresdefault.jpg",
+                            "embed": "https://www.youtube.com/embed/CtYNR2dc80E?autoplay=1&rel=0"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "session_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152",
+                "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+                "type": "text",
+                "from": "user",
+                "origin": "chat",
+                "content": "**We made a cool video tutorial to help you setting up your Crisp** https://www.youtube.com/watch?v=CtYNR2dc80E",
+                "stamped": true,
+                "timestamp": 1585850356163,
+                "user": {
+                    "nickname": "Crisp Team",
+                    "user_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152"
+                }
+            },
+            {
+                "fingerprint": 158585036702187,
+                "delivered": null,
+                "read": "chat",
+                "preview": [
+                    {
+                        "url": "https://crisp.chat",
+                        "website": "crisp.chat",
+                        "title": "Customer Messaging Platform For Startups & SMB's",
+                        "preview": {
+                            "excerpt": "FeaturesBoost your engagement by sending email and in-app messagesA knowledge base to give instan…",
+                            "image": "https://crisp.chat/opengraph.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "session_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152",
+                "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+                "type": "text",
+                "from": "user",
+                "origin": "chat",
+                "content": "If you need **live** help, please, chat with us on https://crisp.chat",
+                "stamped": true,
+                "timestamp": 1585850367021,
+                "user": {
+                    "nickname": "Crisp Team",
+                    "user_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152"
+                }
+            },
+            {
+                "fingerprint": 158585036902436,
+                "delivered": null,
+                "read": "chat",
+                "preview": [
+                    {
+                        "url": "https://help.crisp.chat/en/article/10wcj3l/",
+                        "website": "help.crisp.chat",
+                        "title": "How to add the Crisp chatbox code to my website?",
+                        "preview": {
+                            "excerpt": "So, you just signed up to Crisp and you are ready to add the chatbox code to your website? Great!…",
+                            "image": "https://crisp.chat/opengraph.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "session_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152",
+                "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+                "type": "text",
+                "from": "user",
+                "origin": "chat",
+                "content": "Finally we made some resources to help setting up Crisp:\n\n[How to add the Crisp chatbox on your site](https://help.crisp.chat/en/article/10wcj3l/) _(the code you need to add in your website HTML)_\n[Link Crisp with Facebook Messenger](https://help.crisp.chat/en/article/1gbgm9d/) _(your customers will be able to contact your from Messenger)_\n[Configure your Helpdesk](https://help.crisp.chat/en/article/how-to-use-helpdesk-i2tsm1/) _(create an help site to guide your customers)_\n[How to use Triggers](https://help.crisp.chat/en/article/i2tsm1/) _(to send automated messages to your customers)_\n[How to change the chatbox color](https://help.crisp.chat/en/article/1txcz7t/)",
+                "stamped": true,
+                "timestamp": 1585850369024,
+                "user": {
+                    "nickname": "Crisp Team",
+                    "user_id": "session_fd9a87ef-2c46-498f-ba7b-a4aeb5af3152"
+                }
+            }
+        ]
+    },
+    {
+        "session_id": "session_ee304eb3-5964-4c2d-b1c2-6f10b8e307d9",
+        "active": {
+            "last": 1585850555881,
+            "now": false
+        },
+        "availability": "offline",
+        "created_at": 1585850489303,
+        "is_blocked": false,
+        "meta": {
+            "nickname": "Andrewcreym",
+            "email": "andrewcreym@gmail.com",
+            "phone": "",
+            "avatar": "",
+            "ip": "185.126.130.57",
+            "data": {},
+            "device": {
+                "geolocation": {
+                    "country": "RU",
+                    "region": "KYA",
+                    "city": "Krasnoyarsk",
+                    "coordinates": {
+                        "latitude": 56.003,
+                        "longitude": 92.7993
+                    }
+                },
+                "capabilities": [
+                    "browsing",
+                    "call"
+                ],
+                "locales": [
+                    "ru-RU",
+                    "ru",
+                    "en-US",
+                    "en"
+                ],
+                "timezone": -420,
+                "system": {
+                    "os": {
+                        "name": "Windows",
+                        "version": "10"
+                    },
+                    "engine": {
+                        "version": "537.36",
+                        "name": "WebKit"
+                    },
+                    "browser": {
+                        "name": "Chrome",
+                        "version": "80.0.3987.149",
+                        "major": "80"
+                    },
+                    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"
+                }
+            },
+            "segments": [
+                "chat"
+            ]
+        },
+        "state": "unresolved",
+        "status": 1,
+        "updated_at": 1585865736035,
+        "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+        "compose": {
+            "visitor": {
+                "type": "stop",
+                "timestamp": 1585850519646,
+                "excerpt": null
+            },
+            "operator": {
+                "fba7322d-bee7-4d5d-b2d1-6383cbb102ff": {
+                    "type": "stop",
+                    "timestamp": 1585865735532,
+                    "excerpt": null,
+                    "user": {
+                        "nickname": "Andrei Dudarev",
+                        "user_id": "fba7322d-bee7-4d5d-b2d1-6383cbb102ff"
+                    }
+                }
+            }
+        },
+        "last_message": "Тестовое сообщение!",
+        "unread": {
+            "operator": 0,
+            "visitor": 0
+        },
+        "people_id": "1d78cdb2-750a-4d33-ab78-c50ee32ad642",
+        "assigned": {
+            "user_id": "fba7322d-bee7-4d5d-b2d1-6383cbb102ff"
+        },
+        "messages": [
+            {
+                "fingerprint": 158585048943690,
+                "delivered": null,
+                "read": "chat",
+                "preview": [],
+                "mentions": [],
+                "session_id": "session_ee304eb3-5964-4c2d-b1c2-6f10b8e307d9",
+                "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+                "type": "text",
+                "from": "user",
+                "origin": "chat",
+                "content": "123",
+                "stamped": true,
+                "timestamp": 1585850489244,
+                "user": {
+                    "nickname": "visitor1",
+                    "user_id": "session_ee304eb3-5964-4c2d-b1c2-6f10b8e307d9"
+                }
+            },
+            {
+                "fingerprint": 158585051213941,
+                "delivered": "chat",
+                "read": "chat",
+                "preview": [],
+                "mentions": [],
+                "session_id": "session_ee304eb3-5964-4c2d-b1c2-6f10b8e307d9",
+                "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+                "type": "text",
+                "from": "operator",
+                "origin": "chat",
+                "content": "567",
+                "stamped": true,
+                "timestamp": 1585850512211,
+                "user": {
+                    "nickname": "Andrei Dudarev",
+                    "user_id": "fba7322d-bee7-4d5d-b2d1-6383cbb102ff"
+                }
+            },
+            {
+                "fingerprint": 158585051982643,
+                "delivered": null,
+                "read": "chat",
+                "preview": [],
+                "mentions": [],
+                "session_id": "session_ee304eb3-5964-4c2d-b1c2-6f10b8e307d9",
+                "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+                "type": "text",
+                "from": "user",
+                "origin": "chat",
+                "content": "+1",
+                "stamped": true,
+                "timestamp": 1585850519626,
+                "user": {
+                    "nickname": "Andrewcreym",
+                    "user_id": "session_ee304eb3-5964-4c2d-b1c2-6f10b8e307d9"
+                }
+            },
+            {
+                "fingerprint": 158586573589960,
+                "delivered": "email",
+                "read": "email",
+                "preview": [],
+                "mentions": [],
+                "session_id": "session_ee304eb3-5964-4c2d-b1c2-6f10b8e307d9",
+                "website_id": "61e825ac-10a6-40c9-95fb-0a0d351b75a8",
+                "type": "text",
+                "from": "operator",
+                "origin": "chat",
+                "content": "Тестовое сообщение!",
+                "stamped": true,
+                "timestamp": 1585865735963,
+                "user": {
+                    "nickname": "Andrei Dudarev",
+                    "user_id": "fba7322d-bee7-4d5d-b2d1-6383cbb102ff"
+                }
+            }
+        ]
+    }
+]
