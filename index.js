@@ -29,7 +29,7 @@ async function main(){
     var conversationsCount = convers.length;
 
     for(var i = 0; i < conversationsCount; i++){
-        messagesData = await getMessages(convers[i].session_id);
+        let messagesData = await getMessages(convers[i].session_id);
         convers[i].messages = messagesData;
     }
 
