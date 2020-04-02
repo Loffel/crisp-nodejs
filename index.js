@@ -1,6 +1,7 @@
-var fs = require("fs");
-var Crisp = require("node-crisp-api");
-var CrispClient  = new Crisp();
+var fs = require("fs"),
+    Crisp = require("node-crisp-api"),
+    CrispClient  = new Crisp(),
+    http = require("http");
 
 var settings = require('./settings.json');
 
@@ -44,4 +45,10 @@ async function getMessages(session){
     return messages
 }
 
-main();
+http
+  .createServer(function(req, res) {
+    res.write("Start work...");
+    main();
+    res.end();
+  })
+  .listen(8080);
